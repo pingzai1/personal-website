@@ -1,0 +1,1 @@
+fetch('game.js?v=5').then(r=>r.text()).then(src=>{src=src.replace("星币')}$$('.tab')","星币')};$$('.tab')");new Function(src)();}).catch(err=>{console.error(err);document.querySelector('#log').innerHTML='<div><strong>启动失败</strong> · '+err.message+'</div>';});
